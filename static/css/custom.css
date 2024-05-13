@@ -1,0 +1,5 @@
+.macro,
+.macro .hiccup_html,
+.macro .raw_html {
+    display: inline;
+}
